@@ -1,0 +1,15 @@
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\bin\Debug\net5.0\OOP-Interface.exe
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\bin\Debug\net5.0\OOP-Interface.deps.json
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\bin\Debug\net5.0\OOP-Interface.runtimeconfig.json
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\bin\Debug\net5.0\OOP-Interface.runtimeconfig.dev.json
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\bin\Debug\net5.0\OOP-Interface.dll
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\bin\Debug\net5.0\ref\OOP-Interface.dll
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\bin\Debug\net5.0\OOP-Interface.pdb
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\obj\Debug\net5.0\OOP-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\obj\Debug\net5.0\OOP-Interface.AssemblyInfoInputs.cache
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\obj\Debug\net5.0\OOP-Interface.AssemblyInfo.cs
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\obj\Debug\net5.0\OOP-Interface.csproj.CoreCompileInputs.cache
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\obj\Debug\net5.0\OOP-Interface.dll
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\obj\Debug\net5.0\ref\OOP-Interface.dll
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\obj\Debug\net5.0\OOP-Interface.pdb
+C:\Users\BK\source\repos\OOP-Interface\OOP-Interface\obj\Debug\net5.0\OOP-Interface.genruntimeconfig.cache

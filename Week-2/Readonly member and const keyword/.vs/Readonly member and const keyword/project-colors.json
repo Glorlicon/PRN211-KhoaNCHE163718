@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2bd539e6-a953-4da8-ad7e-dcc5f8f1a097": {
+      "ProjectGuid": "2bd539e6-a953-4da8-ad7e-dcc5f8f1a097",
+      "DisplayName": "Readonly member and const keyword",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Processing_Command_Line_Arguments/1.0.0": {
+        "runtime": {
+          "Processing_Command_Line_Arguments.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Processing_Command_Line_Arguments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

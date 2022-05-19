@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "126rZ5OR9ACnDeM6jE9GLinioFrtxvvJwfArofRmdsR0utdU8+fEs55ZFDWQcn7a4JL6IBWntmUVfBkaIoqVqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Readonly member and const keyword\\Readonly member and const keyword\\Readonly member and const keyword.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

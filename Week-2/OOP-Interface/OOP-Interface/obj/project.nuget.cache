@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fu4kgD/luUFaaKsCiUQnAalEHBW4xlM2gaQHOinAU6Tb4nXOoHCnxnM8QdcO7vxrYrQNQ43A5V56nQdw0XTlrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\OOP-Interface\\OOP-Interface\\OOP-Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jh60jtBGLck07doCUzFIlfgadtAlj4NRDxAdEtXNonyXsUtG1M/oNuLsZZ4NkZ2gETWZePCYmPgw7hgEC8xIiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

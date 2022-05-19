@@ -1,0 +1,16 @@
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\bin\Debug\net5.0\Readonly member and const keyword.exe
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\bin\Debug\net5.0\Readonly member and const keyword.deps.json
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\bin\Debug\net5.0\Readonly member and const keyword.runtimeconfig.json
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\bin\Debug\net5.0\Readonly member and const keyword.runtimeconfig.dev.json
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\bin\Debug\net5.0\Readonly member and const keyword.dll
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\bin\Debug\net5.0\ref\Readonly member and const keyword.dll
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\bin\Debug\net5.0\Readonly member and const keyword.pdb
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\obj\Debug\net5.0\Readonly member and const keyword.csproj.AssemblyReference.cache
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\obj\Debug\net5.0\Readonly member and const keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\obj\Debug\net5.0\Readonly member and const keyword.AssemblyInfoInputs.cache
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\obj\Debug\net5.0\Readonly member and const keyword.AssemblyInfo.cs
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\obj\Debug\net5.0\Readonly member and const keyword.csproj.CoreCompileInputs.cache
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\obj\Debug\net5.0\Readonly member and const keyword.dll
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\obj\Debug\net5.0\ref\Readonly member and const keyword.dll
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\obj\Debug\net5.0\Readonly member and const keyword.pdb
+C:\Users\BK\source\repos\Readonly member and const keyword\Readonly member and const keyword\obj\Debug\net5.0\Readonly member and const keyword.genruntimeconfig.cache
