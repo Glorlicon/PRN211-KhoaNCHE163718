@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gYaKDayLFJb7ivJ5vlmFHplytvcn1vem8j2z3T7q+LGVrDpyY0rFLysLLK3RSYOL2DH+TWkXrFtpZPmhfYXWxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Factories Method\\Factories Method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
