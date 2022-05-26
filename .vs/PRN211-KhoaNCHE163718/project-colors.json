@@ -5,22 +5,7 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
-    },
-    "588a3b5b-8876-4d7c-a7ba-a47ba2c85653": {
-      "ProjectGuid": "588a3b5b-8876-4d7c-a7ba-a47ba2c85653",
-      "DisplayName": "Singleton Pattern",
-      "ColorIndex": 0
-    },
-    "4d324081-c1d1-4258-b7fe-9591fd99dc20": {
-      "ProjectGuid": "4d324081-c1d1-4258-b7fe-9591fd99dc20",
-      "DisplayName": "Factories Method",
-      "ColorIndex": 1
-    },
-    "8436f8f6-843d-4e86-9aa2-1f7e8c711830": {
-      "ProjectGuid": "8436f8f6-843d-4e86-9aa2-1f7e8c711830",
-      "DisplayName": "Prototype Pattern",
-      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 0
 }
