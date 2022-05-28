@@ -1,0 +1,15 @@
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\bin\Debug\net5.0\Singleton Pattern Realworld.exe
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\bin\Debug\net5.0\Singleton Pattern Realworld.deps.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\bin\Debug\net5.0\Singleton Pattern Realworld.runtimeconfig.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\bin\Debug\net5.0\Singleton Pattern Realworld.runtimeconfig.dev.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\bin\Debug\net5.0\Singleton Pattern Realworld.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\bin\Debug\net5.0\ref\Singleton Pattern Realworld.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\bin\Debug\net5.0\Singleton Pattern Realworld.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\obj\Debug\net5.0\Singleton Pattern Realworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\obj\Debug\net5.0\Singleton Pattern Realworld.AssemblyInfoInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\obj\Debug\net5.0\Singleton Pattern Realworld.AssemblyInfo.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\obj\Debug\net5.0\Singleton Pattern Realworld.csproj.CoreCompileInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\obj\Debug\net5.0\Singleton Pattern Realworld.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\obj\Debug\net5.0\ref\Singleton Pattern Realworld.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\obj\Debug\net5.0\Singleton Pattern Realworld.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Group_Task01\Singleton Pattern Realworld\obj\Debug\net5.0\Singleton Pattern Realworld.genruntimeconfig.cache
