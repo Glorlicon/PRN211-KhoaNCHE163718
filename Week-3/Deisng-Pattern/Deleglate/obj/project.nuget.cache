@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FlqQAvlEeFmc0oiunY6QWPIfW8rvXZy30S3Eus36+OYC3XqbnpiQUY7MVmwbFJL87rwzmg0hUyzqaprgxjHf5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-3\\Deisng-Pattern\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

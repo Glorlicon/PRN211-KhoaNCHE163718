@@ -5,7 +5,7 @@ namespace Singleton_Pattern
     public sealed class Singleton {
         private static readonly Singleton Instance;
         private static int TotalInstance=0;
-        private Singleton()=> Console.WriteLine("--Private constructor is called ")
+        private Singleton() => Console.WriteLine("--Private constructor is called ");
         static Singleton()
         {
             Console.WriteLine("--static Constructor is called.");
@@ -16,7 +16,7 @@ namespace Singleton_Pattern
         }
         public static Singleton GetInstacne => Instance;
         public int GetTotalInstance => TotalInstance;
-        public void Print() => Console.WriteLine
+        public void Print() => Console.WriteLine();
     }
 
     class Program
@@ -24,10 +24,10 @@ namespace Singleton_Pattern
         static void Main(string[] args)
         {
             Console.WriteLine("#1.Trying to get a Singleton instance, called firstInstance.");
-            Singleton firstInstance = Singleton.GetInstacne();
+            Singleton firstInstance = Singleton.GetInstacne;
             firstInstance.Print();
             Console.WriteLine("#2.Trying to get another Singleton instance, called secondInstance.");
-            Singleton secondInstance = Singleton.GetInstacne();
+            Singleton secondInstance = Singleton.GetInstacne;
             Console.WriteLine($"Number of instances:{secondInstance.GetTotalInstance}");
             Console.Write("--Invoke Print() method : ");
             secondInstance.Print();

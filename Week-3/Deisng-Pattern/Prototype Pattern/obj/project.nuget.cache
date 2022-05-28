@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WW3pCC6NCqo/d4ScCvAjydQnoSxDVFelVH6J8DK24fX9doL6lzgKikEdgelnJhBRNowggeXuaW7FeOz98qKvtw==",
+  "dgSpecHash": "G8IgS06IwnLIwMOy0CWga/me74e/UoU0E0m8sAm0KhMtX5l9SYGsy49AZi12GHjc+6SOWf6Tq/UKFboMfhBAdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Prototype Pattern\\Prototype Pattern.csproj",
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-3\\Design Pattern Backup\\Prototype Pattern\\Prototype Pattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],

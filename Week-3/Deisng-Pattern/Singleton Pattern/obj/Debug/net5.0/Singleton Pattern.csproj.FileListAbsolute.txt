@@ -1,0 +1,15 @@
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.AssemblyInfoInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.AssemblyInfo.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.csproj.CoreCompileInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.exe
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.deps.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.runtimeconfig.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.runtimeconfig.dev.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\bin\Debug\net5.0\ref\Singleton Pattern.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\obj\Debug\net5.0\ref\Singleton Pattern.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.genruntimeconfig.cache

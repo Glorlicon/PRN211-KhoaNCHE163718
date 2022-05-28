@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1oxWTXXlPzHHgemJe1ayUiDMAP8+D8/Bgr5hwF0QeSb9YFU5TVs43+lx9EA9f78IiNyV78PH0PxIF3xnzCPDCg==",
+  "dgSpecHash": "kd63jJD53B89W7aPCu7X0gODXLNNHxjlrzcjqO4SMk6acPgWqHDlI9GgoXvljRIcFAHBIQtd7OIg+SfZA04BxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments.csproj",
+  "projectFilePath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-1\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],

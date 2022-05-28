@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dilWS9kKns8ANfu7F7EdEkWrYCDqgze7ELo3NcGWGxGRi98nZysbt/BG2kjale9mIlbPYXOqwlr29nS1JEpJbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-3\\Design Pattern Backup\\Book Manage\\Book Manage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

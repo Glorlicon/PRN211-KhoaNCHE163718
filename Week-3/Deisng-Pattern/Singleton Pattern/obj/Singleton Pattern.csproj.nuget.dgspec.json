@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Singleton Pattern\\Singleton Pattern.csproj": {}
+    "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-3\\Design Pattern Backup\\Singleton Pattern\\Singleton Pattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Singleton Pattern\\Singleton Pattern.csproj": {
+    "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-3\\Design Pattern Backup\\Singleton Pattern\\Singleton Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Singleton Pattern\\Singleton Pattern.csproj",
+        "projectUniqueName": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-3\\Design Pattern Backup\\Singleton Pattern\\Singleton Pattern.csproj",
         "projectName": "Singleton Pattern",
-        "projectPath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Singleton Pattern\\Singleton Pattern.csproj",
+        "projectPath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-3\\Design Pattern Backup\\Singleton Pattern\\Singleton Pattern.csproj",
         "packagesPath": "C:\\Users\\BK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Singleton Pattern\\obj\\",
+        "outputPath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-3\\Design Pattern Backup\\Singleton Pattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BK\\AppData\\Roaming\\NuGet\\NuGet.Config",

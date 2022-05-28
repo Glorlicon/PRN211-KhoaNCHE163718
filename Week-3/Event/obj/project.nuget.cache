@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LRsKPBeI6OGme5QKI2ouQsLzjBrlpInsNqSleFqcG3+aqXK4G3LpwZt76F4082fNXeOkbtg50ZW1olZi8eE6kQ==",
+  "dgSpecHash": "JBDfEiqaOvQ8CwE4g9t+zKWTj4KSP/6QddZ1apK/clphK5pescLgjPTKyKSa58sb4Dhx3qjSgmQNc1waUIjB2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-3\\Event\\Event.csproj",
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-3\\Design Pattern Backup\\Event\\Event.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],

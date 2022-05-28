@@ -1,0 +1,15 @@
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\bin\Debug\net5.0\Book Manage.exe
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\bin\Debug\net5.0\Book Manage.deps.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\bin\Debug\net5.0\Book Manage.runtimeconfig.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\bin\Debug\net5.0\Book Manage.runtimeconfig.dev.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\bin\Debug\net5.0\Book Manage.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\bin\Debug\net5.0\ref\Book Manage.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\bin\Debug\net5.0\Book Manage.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\obj\Debug\net5.0\Book Manage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\obj\Debug\net5.0\Book Manage.AssemblyInfoInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\obj\Debug\net5.0\Book Manage.AssemblyInfo.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\obj\Debug\net5.0\Book Manage.csproj.CoreCompileInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\obj\Debug\net5.0\Book Manage.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\obj\Debug\net5.0\ref\Book Manage.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\obj\Debug\net5.0\Book Manage.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Book Manage\obj\Debug\net5.0\Book Manage.genruntimeconfig.cache

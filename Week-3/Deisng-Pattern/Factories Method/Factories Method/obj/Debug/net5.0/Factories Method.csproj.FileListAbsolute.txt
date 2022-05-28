@@ -1,0 +1,15 @@
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\bin\Debug\net5.0\Factories Method.exe
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\bin\Debug\net5.0\Factories Method.deps.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\bin\Debug\net5.0\Factories Method.runtimeconfig.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\bin\Debug\net5.0\Factories Method.runtimeconfig.dev.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\bin\Debug\net5.0\Factories Method.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\bin\Debug\net5.0\ref\Factories Method.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\bin\Debug\net5.0\Factories Method.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\obj\Debug\net5.0\Factories Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\obj\Debug\net5.0\Factories Method.AssemblyInfoInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\obj\Debug\net5.0\Factories Method.AssemblyInfo.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\obj\Debug\net5.0\Factories Method.csproj.CoreCompileInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\obj\Debug\net5.0\Factories Method.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\obj\Debug\net5.0\ref\Factories Method.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\obj\Debug\net5.0\Factories Method.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-3\Design Pattern Backup\Factories Method\Factories Method\obj\Debug\net5.0\Factories Method.genruntimeconfig.cache

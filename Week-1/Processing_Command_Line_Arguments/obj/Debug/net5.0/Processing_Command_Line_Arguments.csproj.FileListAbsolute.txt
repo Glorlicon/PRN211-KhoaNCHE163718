@@ -20,3 +20,7 @@ C:\Users\BK\source\repos\Processing_Command_Line_Arguments\obj\Debug\net5.0\Proc
 C:\Users\BK\source\repos\Processing_Command_Line_Arguments\obj\Debug\net5.0\Processing_Command_Line_Arguments.dll
 C:\Users\BK\source\repos\Processing_Command_Line_Arguments\obj\Debug\net5.0\ref\Processing_Command_Line_Arguments.dll
 C:\Users\BK\source\repos\Processing_Command_Line_Arguments\obj\Debug\net5.0\Processing_Command_Line_Arguments.pdb
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Week-1\Processing_Command_Line_Arguments\obj\Debug\net5.0\Processing_Command_Line_Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Week-1\Processing_Command_Line_Arguments\obj\Debug\net5.0\Processing_Command_Line_Arguments.AssemblyInfoInputs.cache
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Week-1\Processing_Command_Line_Arguments\obj\Debug\net5.0\Processing_Command_Line_Arguments.AssemblyInfo.cs
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Week-1\Processing_Command_Line_Arguments\obj\Debug\net5.0\Processing_Command_Line_Arguments.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVywftVAjOiBbsOE2SR2rX6CPLLQi+rpQQlxj0TcQc3N78APRmPNfSgrd4mgvnsbSDuCYI7xV+Aaa9BfAryI5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-3\\Design Pattern Backup\\Factories Method\\Factories Method\\Factories Method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

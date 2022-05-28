@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BK\\source\\repos\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments.csproj",
+      "projectUniqueName": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-1\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments.csproj",
       "projectName": "Processing_Command_Line_Arguments",
-      "projectPath": "C:\\Users\\BK\\source\\repos\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments.csproj",
+      "projectPath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-1\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments.csproj",
       "packagesPath": "C:\\Users\\BK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BK\\source\\repos\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments\\obj\\",
+      "outputPath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-1\\Processing_Command_Line_Arguments\\Processing_Command_Line_Arguments\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BK\\AppData\\Roaming\\NuGet\\NuGet.Config",

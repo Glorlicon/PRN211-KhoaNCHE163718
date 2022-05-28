@@ -8,7 +8,7 @@ namespace Prototype_Pattern
         public string modelName { get; set; }
         public int BasePrice
         {
-           set => basePrice = value;
+            set => basePrice = value;
             get => basePrice;
         }
         public int OnRoadPrice
@@ -27,13 +27,13 @@ namespace Prototype_Pattern
 
     public class Mustang : Car
     {
-        public Mustang(string model)=>(modelName, basePrice) = (model, 200_000);
-        public override Car Clone()=>this.MemberwiseClone() as Mustang;
+        public Mustang(string model) => (modelName, basePrice) = (model, 200_000);
+        public override Car Clone() => this.MemberwiseClone() as Mustang;
     }
     public class Bentley : Car
     {
-        public Bentley(string model)=>(modelName, BasePrice) = (model, 300_000);
-        public override Car Clone()=>this.MemberwiseClone() as Bentley;
+        public Bentley(string model) => (modelName, BasePrice) = (model, 300_000);
+        public override Car Clone() => this.MemberwiseClone() as Bentley;
     }
 
     class Program

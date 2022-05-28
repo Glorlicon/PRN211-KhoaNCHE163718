@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "goLFwnkR5G+7Ajf7H0EgbfY6pRNQuKo9wgoL9xp3Y0CDK6y20an4zWLSpwY/6y6VdvugEKzj6U+o3vU2KTZMig==",
+  "dgSpecHash": "J6tO11vMPvsf5Cgh5rGnTX2PPSJO7rowK8FLRl3TQJ80D1YDXxWImeXdS8Fq5bU2waeNy5iBsAzqCkqwI8pZdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Singleton Pattern\\Singleton Pattern.csproj",
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-3\\Design Pattern Backup\\Singleton Pattern\\Singleton Pattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
