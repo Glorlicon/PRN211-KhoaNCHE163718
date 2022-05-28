@@ -4,23 +4,10 @@ using System.Threading;
 
 namespace Singleton_Pattern_Realworld
 {
-    /// <summary>
-
-    /// MainApp startup class for Real-World 
-
-    /// Singleton Design Pattern.
-
-    /// </summary>
 
     class MainApp
 
     {
-        /// <summary>
-
-        /// Entry point into console application.
-
-        /// </summary>
-
         static void Main()
         {
             LoadBalancer b1 = LoadBalancer.GetLoadBalancer();
@@ -28,14 +15,10 @@ namespace Singleton_Pattern_Realworld
             LoadBalancer b3 = LoadBalancer.GetLoadBalancer();
             LoadBalancer b4 = LoadBalancer.GetLoadBalancer();
 
-            // Same instance?
-
             if (b1 == b2 && b2 == b3 && b3 == b4)
             {
                 Console.WriteLine("Same instance\n");
             }
-
-            // Load balance 15 server requests
 
             LoadBalancer balancer = LoadBalancer.GetLoadBalancer();
             for (int i = 0; i < 15; i++)
@@ -44,17 +27,9 @@ namespace Singleton_Pattern_Realworld
                 Console.WriteLine("Dispatch Request to: " + server);
             }
 
-            // Wait for user
-
             Console.ReadKey();
         }
     }
-
-    /// <summary>
-
-    /// The 'Singleton' class
-
-    /// </summary>
 
     class LoadBalancer
 
@@ -63,15 +38,13 @@ namespace Singleton_Pattern_Realworld
         private List<string> _servers = new List<string>();
         private Random _random = new Random();
 
-        // Lock synchronization object
 
         private static object syncLock = new object();
 
-        // Constructor (protected)
 
         protected LoadBalancer()
         {
-            // List of available servers
+ 
 
             _servers.Add("ServerI");
             _servers.Add("ServerII");
@@ -82,13 +55,6 @@ namespace Singleton_Pattern_Realworld
 
         public static LoadBalancer GetLoadBalancer()
         {
-            // Support multithreaded applications through
-
-            // 'Double checked locking' pattern which (once
-
-            // the instance exists) avoids locking each
-
-            // time the method is invoked
 
             if (_instance == null)
             {
@@ -104,7 +70,6 @@ namespace Singleton_Pattern_Realworld
             return _instance;
         }
 
-        // Simple, but effective random load balancer
 
         public string Server
         {
