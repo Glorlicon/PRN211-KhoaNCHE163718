@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LwpFwJwOocaaheh/HC8fgvvfi80NCgCu5bjGwuzd4BuMuS0iFwLqwixMsmgxbFU5PiATwu2PwHqsYaS7ahJTfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\Race Conditions\\Race Conditions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

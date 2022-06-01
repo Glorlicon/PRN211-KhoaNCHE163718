@@ -1,0 +1,15 @@
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\bin\Debug\net5.0\Enumerating Running Processes.exe
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\bin\Debug\net5.0\Enumerating Running Processes.deps.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\bin\Debug\net5.0\Enumerating Running Processes.runtimeconfig.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\bin\Debug\net5.0\Enumerating Running Processes.runtimeconfig.dev.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\bin\Debug\net5.0\Enumerating Running Processes.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\bin\Debug\net5.0\ref\Enumerating Running Processes.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\bin\Debug\net5.0\Enumerating Running Processes.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\obj\Debug\net5.0\Enumerating Running Processes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\obj\Debug\net5.0\Enumerating Running Processes.AssemblyInfoInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\obj\Debug\net5.0\Enumerating Running Processes.AssemblyInfo.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\obj\Debug\net5.0\Enumerating Running Processes.csproj.CoreCompileInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\obj\Debug\net5.0\Enumerating Running Processes.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\obj\Debug\net5.0\ref\Enumerating Running Processes.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\obj\Debug\net5.0\Enumerating Running Processes.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\obj\Debug\net5.0\Enumerating Running Processes.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nU8tPa/AdLbxY/9P9kdtDZbamglo0O5cmaGLkR4QCThL7ldpjZB5gphWif++kYLR17/tnjKs2zVeTAuYphylMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\Timer Callbacks\\Timer Callbacks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

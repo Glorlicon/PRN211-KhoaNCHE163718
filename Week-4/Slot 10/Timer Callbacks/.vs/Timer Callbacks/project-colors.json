@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c8122988-0766-495e-916f-c45064d4416e": {
+      "ProjectGuid": "c8122988-0766-495e-916f-c45064d4416e",
+      "DisplayName": "Timer Callbacks",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

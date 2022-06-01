@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c8205f0-ae38-41af-8ec0-aaa924cda80a": {
+      "ProjectGuid": "5c8205f0-ae38-41af-8ec0-aaa924cda80a",
+      "DisplayName": "Enumerating Running Processes",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

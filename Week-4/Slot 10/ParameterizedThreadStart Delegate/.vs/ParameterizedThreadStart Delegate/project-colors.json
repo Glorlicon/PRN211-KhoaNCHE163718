@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9fb13f7a-49ea-48fe-8904-676028e3064b": {
+      "ProjectGuid": "9fb13f7a-49ea-48fe-8904-676028e3064b",
+      "DisplayName": "ParameterizedThreadStart Delegate",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

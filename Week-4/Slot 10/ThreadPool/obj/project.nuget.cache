@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEIgkkEGE1O0PXTGmFllPSn5B2flxTwFvF1t0deLwuUDoMGp7zvVuAvM+C4AOMNtQry1xzoQm+KzBABgjDk4Xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\ThreadPool\\ThreadPool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

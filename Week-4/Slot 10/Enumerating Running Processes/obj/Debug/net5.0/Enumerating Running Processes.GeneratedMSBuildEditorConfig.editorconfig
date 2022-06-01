@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Enumerating_Running_Processes
+build_property.ProjectDir = C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\Enumerating Running Processes\

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rsjBcVO172tpUMJDXfCFr99y+dwTpzNzlVy5NTSRO8XcNPhH/nTXA1++EM+B1rcFuJZkxNWsq52aiXWIkA10Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\ParameterizedThreadStart Delegate\\ParameterizedThreadStart Delegate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

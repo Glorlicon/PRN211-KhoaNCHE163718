@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "onwp1JtxX7WmfkyIO5W0p7xMer1SQQHDJtiF7lYXLvmuGsWmm3KptFab1Mo/Nrzm2VjtEP661kic0PO9ter2oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\Enumerating Running Processes\\Enumerating Running Processes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
