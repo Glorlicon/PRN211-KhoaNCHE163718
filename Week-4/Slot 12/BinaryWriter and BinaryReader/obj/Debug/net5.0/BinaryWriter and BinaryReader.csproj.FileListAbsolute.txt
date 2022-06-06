@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\bin\Debug\net5.0\BinaryWriter and BinaryReader.exe
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\bin\Debug\net5.0\BinaryWriter and BinaryReader.deps.json
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\bin\Debug\net5.0\BinaryWriter and BinaryReader.runtimeconfig.json
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\bin\Debug\net5.0\BinaryWriter and BinaryReader.runtimeconfig.dev.json
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\bin\Debug\net5.0\BinaryWriter and BinaryReader.dll
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\bin\Debug\net5.0\ref\BinaryWriter and BinaryReader.dll
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\bin\Debug\net5.0\BinaryWriter and BinaryReader.pdb
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\obj\Debug\net5.0\BinaryWriter and BinaryReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\obj\Debug\net5.0\BinaryWriter and BinaryReader.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\obj\Debug\net5.0\BinaryWriter and BinaryReader.AssemblyInfo.cs
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\obj\Debug\net5.0\BinaryWriter and BinaryReader.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\obj\Debug\net5.0\BinaryWriter and BinaryReader.dll
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\obj\Debug\net5.0\ref\BinaryWriter and BinaryReader.dll
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\obj\Debug\net5.0\BinaryWriter and BinaryReader.pdb
+C:\Users\admin\source\repos\BinaryWriter and BinaryReader\obj\Debug\net5.0\BinaryWriter and BinaryReader.genruntimeconfig.cache

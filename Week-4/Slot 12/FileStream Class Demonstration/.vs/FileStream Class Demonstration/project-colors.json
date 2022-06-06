@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe99b8dc-8f79-47e4-82c1-874031b23bfd": {
+      "ProjectGuid": "fe99b8dc-8f79-47e4-82c1-874031b23bfd",
+      "DisplayName": "FileStream Class Demonstration",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

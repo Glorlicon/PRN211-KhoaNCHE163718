@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\bin\Debug\net5.0\StreamWriter and StreamReader Demonstration.exe
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\bin\Debug\net5.0\StreamWriter and StreamReader Demonstration.deps.json
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\bin\Debug\net5.0\StreamWriter and StreamReader Demonstration.runtimeconfig.json
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\bin\Debug\net5.0\StreamWriter and StreamReader Demonstration.runtimeconfig.dev.json
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\bin\Debug\net5.0\StreamWriter and StreamReader Demonstration.dll
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\bin\Debug\net5.0\ref\StreamWriter and StreamReader Demonstration.dll
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\bin\Debug\net5.0\StreamWriter and StreamReader Demonstration.pdb
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\obj\Debug\net5.0\StreamWriter and StreamReader Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\obj\Debug\net5.0\StreamWriter and StreamReader Demonstration.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\obj\Debug\net5.0\StreamWriter and StreamReader Demonstration.AssemblyInfo.cs
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\obj\Debug\net5.0\StreamWriter and StreamReader Demonstration.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\obj\Debug\net5.0\StreamWriter and StreamReader Demonstration.dll
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\obj\Debug\net5.0\ref\StreamWriter and StreamReader Demonstration.dll
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\obj\Debug\net5.0\StreamWriter and StreamReader Demonstration.pdb
+C:\Users\admin\source\repos\StreamWriter and StreamReader Demonstration\obj\Debug\net5.0\StreamWriter and StreamReader Demonstration.genruntimeconfig.cache

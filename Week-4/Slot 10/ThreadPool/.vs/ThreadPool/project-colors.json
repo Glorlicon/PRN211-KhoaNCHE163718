@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "540f765b-7881-4a54-8cbd-bce6d031014e": {
+      "ProjectGuid": "540f765b-7881-4a54-8cbd-bce6d031014e",
+      "DisplayName": "ThreadPool",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

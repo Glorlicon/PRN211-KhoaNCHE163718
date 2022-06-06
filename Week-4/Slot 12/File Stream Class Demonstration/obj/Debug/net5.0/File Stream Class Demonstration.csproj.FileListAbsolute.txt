@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\File Stream Class Demonstration\bin\Debug\net5.0\File Stream Class Demonstration.exe
+C:\Users\admin\source\repos\File Stream Class Demonstration\bin\Debug\net5.0\File Stream Class Demonstration.deps.json
+C:\Users\admin\source\repos\File Stream Class Demonstration\bin\Debug\net5.0\File Stream Class Demonstration.runtimeconfig.json
+C:\Users\admin\source\repos\File Stream Class Demonstration\bin\Debug\net5.0\File Stream Class Demonstration.runtimeconfig.dev.json
+C:\Users\admin\source\repos\File Stream Class Demonstration\bin\Debug\net5.0\File Stream Class Demonstration.dll
+C:\Users\admin\source\repos\File Stream Class Demonstration\bin\Debug\net5.0\ref\File Stream Class Demonstration.dll
+C:\Users\admin\source\repos\File Stream Class Demonstration\bin\Debug\net5.0\File Stream Class Demonstration.pdb
+C:\Users\admin\source\repos\File Stream Class Demonstration\obj\Debug\net5.0\File Stream Class Demonstration.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\File Stream Class Demonstration\obj\Debug\net5.0\File Stream Class Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\File Stream Class Demonstration\obj\Debug\net5.0\File Stream Class Demonstration.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\File Stream Class Demonstration\obj\Debug\net5.0\File Stream Class Demonstration.AssemblyInfo.cs
+C:\Users\admin\source\repos\File Stream Class Demonstration\obj\Debug\net5.0\File Stream Class Demonstration.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\File Stream Class Demonstration\obj\Debug\net5.0\File Stream Class Demonstration.dll
+C:\Users\admin\source\repos\File Stream Class Demonstration\obj\Debug\net5.0\ref\File Stream Class Demonstration.dll
+C:\Users\admin\source\repos\File Stream Class Demonstration\obj\Debug\net5.0\File Stream Class Demonstration.pdb
+C:\Users\admin\source\repos\File Stream Class Demonstration\obj\Debug\net5.0\File Stream Class Demonstration.genruntimeconfig.cache

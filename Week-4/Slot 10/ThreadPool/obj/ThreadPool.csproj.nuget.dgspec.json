@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\ThreadPool\\ThreadPool.csproj": {}
+    "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\ThreadPool\\ThreadPool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\ThreadPool\\ThreadPool.csproj": {
+    "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\ThreadPool\\ThreadPool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\ThreadPool\\ThreadPool.csproj",
+        "projectUniqueName": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\ThreadPool\\ThreadPool.csproj",
         "projectName": "ThreadPool",
-        "projectPath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\ThreadPool\\ThreadPool.csproj",
+        "projectPath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\ThreadPool\\ThreadPool.csproj",
         "packagesPath": "C:\\Users\\BK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\ThreadPool\\obj\\",
+        "outputPath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-4\\Slot 10\\ThreadPool\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BK\\AppData\\Roaming\\NuGet\\NuGet.Config",

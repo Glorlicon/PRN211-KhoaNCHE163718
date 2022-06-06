@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\bin\Debug\net5.0\DirectoryInfo Class Demonstration.exe
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\bin\Debug\net5.0\DirectoryInfo Class Demonstration.deps.json
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\bin\Debug\net5.0\DirectoryInfo Class Demonstration.runtimeconfig.json
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\bin\Debug\net5.0\DirectoryInfo Class Demonstration.runtimeconfig.dev.json
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\bin\Debug\net5.0\DirectoryInfo Class Demonstration.dll
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\bin\Debug\net5.0\ref\DirectoryInfo Class Demonstration.dll
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\bin\Debug\net5.0\DirectoryInfo Class Demonstration.pdb
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\obj\Debug\net5.0\DirectoryInfo Class Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\obj\Debug\net5.0\DirectoryInfo Class Demonstration.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\obj\Debug\net5.0\DirectoryInfo Class Demonstration.AssemblyInfo.cs
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\obj\Debug\net5.0\DirectoryInfo Class Demonstration.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\obj\Debug\net5.0\DirectoryInfo Class Demonstration.dll
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\obj\Debug\net5.0\ref\DirectoryInfo Class Demonstration.dll
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\obj\Debug\net5.0\DirectoryInfo Class Demonstration.pdb
+C:\Users\admin\source\repos\DirectoryInfo Class Demonstration\obj\Debug\net5.0\DirectoryInfo Class Demonstration.genruntimeconfig.cache

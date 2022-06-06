@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\FileInfo Class Demonstration\bin\Debug\net5.0\FileInfo Class Demonstration.exe
+C:\Users\admin\source\repos\FileInfo Class Demonstration\bin\Debug\net5.0\FileInfo Class Demonstration.deps.json
+C:\Users\admin\source\repos\FileInfo Class Demonstration\bin\Debug\net5.0\FileInfo Class Demonstration.runtimeconfig.json
+C:\Users\admin\source\repos\FileInfo Class Demonstration\bin\Debug\net5.0\FileInfo Class Demonstration.runtimeconfig.dev.json
+C:\Users\admin\source\repos\FileInfo Class Demonstration\bin\Debug\net5.0\FileInfo Class Demonstration.dll
+C:\Users\admin\source\repos\FileInfo Class Demonstration\bin\Debug\net5.0\ref\FileInfo Class Demonstration.dll
+C:\Users\admin\source\repos\FileInfo Class Demonstration\bin\Debug\net5.0\FileInfo Class Demonstration.pdb
+C:\Users\admin\source\repos\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.AssemblyInfo.cs
+C:\Users\admin\source\repos\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.dll
+C:\Users\admin\source\repos\FileInfo Class Demonstration\obj\Debug\net5.0\ref\FileInfo Class Demonstration.dll
+C:\Users\admin\source\repos\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.pdb
+C:\Users\admin\source\repos\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.genruntimeconfig.cache

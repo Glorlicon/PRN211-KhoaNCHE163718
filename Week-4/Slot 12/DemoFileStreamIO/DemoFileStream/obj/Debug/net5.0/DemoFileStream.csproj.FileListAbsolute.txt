@@ -1,0 +1,15 @@
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\bin\Debug\net5.0\DemoFileStream.exe
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\bin\Debug\net5.0\DemoFileStream.deps.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\bin\Debug\net5.0\DemoFileStream.runtimeconfig.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\bin\Debug\net5.0\DemoFileStream.runtimeconfig.dev.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\bin\Debug\net5.0\DemoFileStream.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\bin\Debug\net5.0\ref\DemoFileStream.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\bin\Debug\net5.0\DemoFileStream.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\obj\Debug\net5.0\DemoFileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\obj\Debug\net5.0\DemoFileStream.AssemblyInfoInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\obj\Debug\net5.0\DemoFileStream.AssemblyInfo.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\obj\Debug\net5.0\DemoFileStream.csproj.CoreCompileInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\obj\Debug\net5.0\DemoFileStream.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\obj\Debug\net5.0\ref\DemoFileStream.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\obj\Debug\net5.0\DemoFileStream.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 11-12\DemoFileStreamIO\DemoFileStream\obj\Debug\net5.0\DemoFileStream.genruntimeconfig.cache

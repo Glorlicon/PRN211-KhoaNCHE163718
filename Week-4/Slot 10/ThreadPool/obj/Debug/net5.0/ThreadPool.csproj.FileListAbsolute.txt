@@ -1,0 +1,5 @@
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\ThreadPool\obj\Debug\net5.0\ThreadPool.csproj.AssemblyReference.cache
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\ThreadPool\obj\Debug\net5.0\ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\ThreadPool\obj\Debug\net5.0\ThreadPool.AssemblyInfoInputs.cache
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\ThreadPool\obj\Debug\net5.0\ThreadPool.AssemblyInfo.cs
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Week-4\Slot 10\ThreadPool\obj\Debug\net5.0\ThreadPool.csproj.CoreCompileInputs.cache
