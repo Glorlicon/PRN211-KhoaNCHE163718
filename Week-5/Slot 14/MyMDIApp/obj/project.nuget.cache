@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nHS4RHS+5jw0n1C6FkE9G92rcKEbkHfFX6yCyTnnUR4lM3zVE9tPfE/6p6NqkfV/wzxRAeJM2lGzjqrv2AafQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 14\\MyMDIApp\\MyMDIApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

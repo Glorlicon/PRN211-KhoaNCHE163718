@@ -1,0 +1,17 @@
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\bin\Debug\net5.0-windows\frmEmployeeDetails.exe
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\bin\Debug\net5.0-windows\frmEmployeeDetails.deps.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\bin\Debug\net5.0-windows\frmEmployeeDetails.runtimeconfig.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\bin\Debug\net5.0-windows\frmEmployeeDetails.runtimeconfig.dev.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\bin\Debug\net5.0-windows\frmEmployeeDetails.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\bin\Debug\net5.0-windows\ref\frmEmployeeDetails.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\bin\Debug\net5.0-windows\frmEmployeeDetails.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\obj\Debug\net5.0-windows\frmEmployeeDetails.Form1.resources
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\obj\Debug\net5.0-windows\frmEmployeeDetails.csproj.GenerateResource.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\obj\Debug\net5.0-windows\frmEmployeeDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\obj\Debug\net5.0-windows\frmEmployeeDetails.AssemblyInfoInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\obj\Debug\net5.0-windows\frmEmployeeDetails.AssemblyInfo.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\obj\Debug\net5.0-windows\frmEmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\obj\Debug\net5.0-windows\frmEmployeeDetails.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\obj\Debug\net5.0-windows\ref\frmEmployeeDetails.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\obj\Debug\net5.0-windows\frmEmployeeDetails.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 13\Winform\frmEmployeeDetails\obj\Debug\net5.0-windows\frmEmployeeDetails.genruntimeconfig.cache
