@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 14\\MyMDIApp\\MyMDIApp.csproj": {}
+    "C:\\Users\\admin\\source\\repos\\MyMDIApp\\MyMDIApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 14\\MyMDIApp\\MyMDIApp.csproj": {
+    "C:\\Users\\admin\\source\\repos\\MyMDIApp\\MyMDIApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 14\\MyMDIApp\\MyMDIApp.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\MyMDIApp\\MyMDIApp.csproj",
         "projectName": "MyMDIApp",
-        "projectPath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 14\\MyMDIApp\\MyMDIApp.csproj",
-        "packagesPath": "C:\\Users\\BK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 14\\MyMDIApp\\obj\\",
+        "projectPath": "C:\\Users\\admin\\source\\repos\\MyMDIApp\\MyMDIApp.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\source\\repos\\MyMDIApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +49,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.13, 5.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -63,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     }

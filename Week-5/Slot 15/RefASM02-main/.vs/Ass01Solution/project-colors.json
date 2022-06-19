@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f666dd0a-6e3b-49f8-8e86-512d8a638ebc": {
+      "ProjectGuid": "f666dd0a-6e3b-49f8-8e86-512d8a638ebc",
+      "DisplayName": "MyStoreWinApp",
+      "ColorIndex": 0
+    },
+    "c6180a99-d052-4fc2-9eaa-243f16e03691": {
+      "ProjectGuid": "c6180a99-d052-4fc2-9eaa-243f16e03691",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

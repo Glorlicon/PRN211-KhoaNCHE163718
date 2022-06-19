@@ -1,19 +1,19 @@
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\bin\Debug\net5.0-windows\MyMDIApp.exe
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\bin\Debug\net5.0-windows\MyMDIApp.deps.json
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\bin\Debug\net5.0-windows\MyMDIApp.runtimeconfig.json
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\bin\Debug\net5.0-windows\MyMDIApp.runtimeconfig.dev.json
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\bin\Debug\net5.0-windows\MyMDIApp.dll
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\bin\Debug\net5.0-windows\ref\MyMDIApp.dll
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\bin\Debug\net5.0-windows\MyMDIApp.pdb
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.csproj.AssemblyReference.cache
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.frmChildForm.resources
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.Form1.resources
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.csproj.GenerateResource.cache
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.AssemblyInfoInputs.cache
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.AssemblyInfo.cs
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.csproj.CoreCompileInputs.cache
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.dll
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\obj\Debug\net5.0-windows\ref\MyMDIApp.dll
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.pdb
-C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-5\Slot 14\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.genruntimeconfig.cache
+C:\Users\admin\source\repos\MyMDIApp\bin\Debug\net5.0-windows\MyMDIApp.exe
+C:\Users\admin\source\repos\MyMDIApp\bin\Debug\net5.0-windows\MyMDIApp.deps.json
+C:\Users\admin\source\repos\MyMDIApp\bin\Debug\net5.0-windows\MyMDIApp.runtimeconfig.json
+C:\Users\admin\source\repos\MyMDIApp\bin\Debug\net5.0-windows\MyMDIApp.runtimeconfig.dev.json
+C:\Users\admin\source\repos\MyMDIApp\bin\Debug\net5.0-windows\MyMDIApp.dll
+C:\Users\admin\source\repos\MyMDIApp\bin\Debug\net5.0-windows\ref\MyMDIApp.dll
+C:\Users\admin\source\repos\MyMDIApp\bin\Debug\net5.0-windows\MyMDIApp.pdb
+C:\Users\admin\source\repos\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.frmChildForm.resources
+C:\Users\admin\source\repos\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.frmMain.resources
+C:\Users\admin\source\repos\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.AssemblyInfo.cs
+C:\Users\admin\source\repos\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.dll
+C:\Users\admin\source\repos\MyMDIApp\obj\Debug\net5.0-windows\ref\MyMDIApp.dll
+C:\Users\admin\source\repos\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.pdb
+C:\Users\admin\source\repos\MyMDIApp\obj\Debug\net5.0-windows\MyMDIApp.genruntimeconfig.cache

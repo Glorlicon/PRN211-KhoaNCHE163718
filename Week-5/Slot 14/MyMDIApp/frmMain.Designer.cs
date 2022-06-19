@@ -1,6 +1,6 @@
 ﻿namespace MyMDIApp
 {
-    partial class Form1
+    partial class frmMain
     {
         /// <summary>
         ///  Required designer variable.
@@ -30,15 +30,15 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // frmMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.IsMdiContainer = true;
-            this.Name = "Form1";
-            this.Text = "MainForm";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Name = "frmMain";
+            this.Text = "Form1";
+            this.Load += new System.EventHandler(this.frmMain_Load);
             this.ResumeLayout(false);
 
         }
