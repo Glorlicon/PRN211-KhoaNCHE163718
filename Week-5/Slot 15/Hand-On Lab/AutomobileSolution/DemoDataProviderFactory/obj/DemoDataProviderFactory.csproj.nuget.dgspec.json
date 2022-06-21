@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 15\\Hand-On Lab\\AutomobileSolution\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj": {}
+    "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 15\\Hand-On Lab\\AutomobileSolution\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 15\\Hand-On Lab\\AutomobileSolution\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj": {
+    "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 15\\Hand-On Lab\\AutomobileSolution\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 15\\Hand-On Lab\\AutomobileSolution\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj",
+        "projectUniqueName": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 15\\Hand-On Lab\\AutomobileSolution\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj",
         "projectName": "DemoDataProviderFactory",
-        "projectPath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 15\\Hand-On Lab\\AutomobileSolution\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj",
+        "projectPath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 15\\Hand-On Lab\\AutomobileSolution\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj",
         "packagesPath": "C:\\Users\\BK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 15\\Hand-On Lab\\AutomobileSolution\\DemoDataProviderFactory\\obj\\",
+        "outputPath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-5\\Slot 15\\Hand-On Lab\\AutomobileSolution\\DemoDataProviderFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BK\\AppData\\Roaming\\NuGet\\NuGet.Config",
