@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fca6403d-5d31-469d-a319-a5fb2da457f2": {
+      "ProjectGuid": "fca6403d-5d31-469d-a319-a5fb2da457f2",
+      "DisplayName": "DemoDisconnectedLayer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

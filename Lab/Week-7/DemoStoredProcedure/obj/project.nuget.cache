@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5JlVIOin4xKiWoOgVOLFEs77NIdjGioWGNg5cywvQ8pySFmLjqzrGW/9h6+QLK1KD2v5pqIYHTXlb78csbX53Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-7\\DemoStoredProcedure\\DemoStoredProcedure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

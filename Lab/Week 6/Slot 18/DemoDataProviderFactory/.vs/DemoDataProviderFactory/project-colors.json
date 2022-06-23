@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46686914-b469-4b83-818b-41f76b767c87": {
+      "ProjectGuid": "46686914-b469-4b83-818b-41f76b767c87",
+      "DisplayName": "DemoDataProviderFactory",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
