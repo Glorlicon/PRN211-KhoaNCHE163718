@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kvXLFGl2J06KfkexCb8VAZqQ/z3K+l5qYG+HpKcozdFCQG/DQZAARuuRy/mPQyjFYTXNQtfM2QlhcqMe81Gfxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Group_Task01\\Singleton Pattern\\Singleton Pattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

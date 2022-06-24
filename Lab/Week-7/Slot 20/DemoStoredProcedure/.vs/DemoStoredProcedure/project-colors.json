@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebc90a3a-782f-4750-bc6b-1af397796446": {
+      "ProjectGuid": "ebc90a3a-782f-4750-bc6b-1af397796446",
+      "DisplayName": "DemoStoredProcedure",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
