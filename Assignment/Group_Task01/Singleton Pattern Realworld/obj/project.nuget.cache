@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "emxwp7sRWRMTp4TtX7ppINB6slL7Z3Z43zXP8bc3MJOf7i8OU1Ec6La5mZotYgm3mQ3uimqy4x+oTKeUad/Ppw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Group_Task01\\Singleton Pattern Realworld\\Singleton Pattern Realworld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
