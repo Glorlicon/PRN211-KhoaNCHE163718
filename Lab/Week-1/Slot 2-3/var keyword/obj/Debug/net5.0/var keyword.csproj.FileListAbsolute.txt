@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\bin\Debug\net5.0\var keyword.exe
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\bin\Debug\net5.0\var keyword.deps.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\bin\Debug\net5.0\var keyword.runtimeconfig.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\bin\Debug\net5.0\var keyword.runtimeconfig.dev.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\bin\Debug\net5.0\var keyword.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\bin\Debug\net5.0\ref\var keyword.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\bin\Debug\net5.0\var keyword.pdb
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\obj\Debug\net5.0\var keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\obj\Debug\net5.0\var keyword.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\obj\Debug\net5.0\var keyword.AssemblyInfo.cs
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\obj\Debug\net5.0\var keyword.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\obj\Debug\net5.0\var keyword.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\obj\Debug\net5.0\ref\var keyword.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\obj\Debug\net5.0\var keyword.pdb
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\var keyword\obj\Debug\net5.0\var keyword.genruntimeconfig.cache

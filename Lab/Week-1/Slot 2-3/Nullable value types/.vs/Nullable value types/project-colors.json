@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75a9bce2-1728-4f8b-9ddd-e30880bdeef0": {
+      "ProjectGuid": "75a9bce2-1728-4f8b-9ddd-e30880bdeef0",
+      "DisplayName": "Nullable value types",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

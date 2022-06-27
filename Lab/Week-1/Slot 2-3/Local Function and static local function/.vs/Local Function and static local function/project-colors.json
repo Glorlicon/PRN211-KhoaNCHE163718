@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c759c4b2-cfb0-4881-8117-e1109c2fbc61": {
+      "ProjectGuid": "c759c4b2-cfb0-4881-8117-e1109c2fbc61",
+      "DisplayName": "Local Function and static local function",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

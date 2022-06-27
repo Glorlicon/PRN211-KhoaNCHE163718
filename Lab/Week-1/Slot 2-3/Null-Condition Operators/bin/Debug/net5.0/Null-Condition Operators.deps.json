@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Null-Condition Operators/1.0.0": {
+        "runtime": {
+          "Null-Condition Operators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Null-Condition Operators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

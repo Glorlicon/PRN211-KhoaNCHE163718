@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6feb49f-34d3-40d9-88d5-c64a48cbb959": {
+      "ProjectGuid": "e6feb49f-34d3-40d9-88d5-c64a48cbb959",
+      "DisplayName": "Ref locals and ref returns",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

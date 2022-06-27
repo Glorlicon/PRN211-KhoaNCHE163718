@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e79caf0-881c-42a5-8854-cc3bd8550bb0": {
+      "ProjectGuid": "4e79caf0-881c-42a5-8854-cc3bd8550bb0",
+      "DisplayName": "Tuples",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67e07c24-cca4-4548-952b-32669013e369": {
+      "ProjectGuid": "67e07c24-cca4-4548-952b-32669013e369",
+      "DisplayName": "IEnumerable interface",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

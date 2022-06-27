@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\bin\Debug\net5.0\SortedSet.exe
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\bin\Debug\net5.0\SortedSet.deps.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\bin\Debug\net5.0\SortedSet.runtimeconfig.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\bin\Debug\net5.0\SortedSet.runtimeconfig.dev.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\bin\Debug\net5.0\SortedSet.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\bin\Debug\net5.0\ref\SortedSet.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\bin\Debug\net5.0\SortedSet.pdb
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\obj\Debug\net5.0\SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\obj\Debug\net5.0\SortedSet.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\obj\Debug\net5.0\SortedSet.AssemblyInfo.cs
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\obj\Debug\net5.0\SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\obj\Debug\net5.0\SortedSet.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\obj\Debug\net5.0\ref\SortedSet.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\obj\Debug\net5.0\SortedSet.pdb
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\SortedSet\obj\Debug\net5.0\SortedSet.genruntimeconfig.cache

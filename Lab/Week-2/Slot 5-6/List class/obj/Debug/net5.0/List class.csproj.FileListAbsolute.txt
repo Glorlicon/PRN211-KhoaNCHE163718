@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\bin\Debug\net5.0\List class.exe
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\bin\Debug\net5.0\List class.deps.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\bin\Debug\net5.0\List class.runtimeconfig.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\bin\Debug\net5.0\List class.runtimeconfig.dev.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\bin\Debug\net5.0\List class.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\bin\Debug\net5.0\ref\List class.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\bin\Debug\net5.0\List class.pdb
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\obj\Debug\net5.0\List class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\obj\Debug\net5.0\List class.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\obj\Debug\net5.0\List class.AssemblyInfo.cs
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\obj\Debug\net5.0\List class.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\obj\Debug\net5.0\List class.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\obj\Debug\net5.0\ref\List class.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\obj\Debug\net5.0\List class.pdb
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\List class\obj\Debug\net5.0\List class.genruntimeconfig.cache

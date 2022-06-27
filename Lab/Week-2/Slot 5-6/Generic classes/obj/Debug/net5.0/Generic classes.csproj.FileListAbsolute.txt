@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\bin\Debug\net5.0\Generic classes.exe
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\bin\Debug\net5.0\Generic classes.deps.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\bin\Debug\net5.0\Generic classes.runtimeconfig.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\bin\Debug\net5.0\Generic classes.runtimeconfig.dev.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\bin\Debug\net5.0\Generic classes.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\bin\Debug\net5.0\ref\Generic classes.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\bin\Debug\net5.0\Generic classes.pdb
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\obj\Debug\net5.0\Generic classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\obj\Debug\net5.0\Generic classes.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\obj\Debug\net5.0\Generic classes.AssemblyInfo.cs
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\obj\Debug\net5.0\Generic classes.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\obj\Debug\net5.0\Generic classes.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\obj\Debug\net5.0\ref\Generic classes.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\obj\Debug\net5.0\Generic classes.pdb
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic classes\obj\Debug\net5.0\Generic classes.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\bin\Debug\net5.0\Generic Interfaces.exe
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\bin\Debug\net5.0\Generic Interfaces.deps.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\bin\Debug\net5.0\Generic Interfaces.runtimeconfig.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\bin\Debug\net5.0\Generic Interfaces.runtimeconfig.dev.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\bin\Debug\net5.0\Generic Interfaces.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\bin\Debug\net5.0\ref\Generic Interfaces.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\bin\Debug\net5.0\Generic Interfaces.pdb
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.AssemblyInfo.cs
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\obj\Debug\net5.0\ref\Generic Interfaces.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.pdb
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.genruntimeconfig.cache

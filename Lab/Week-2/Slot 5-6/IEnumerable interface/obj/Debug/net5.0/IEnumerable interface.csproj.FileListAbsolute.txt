@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\bin\Debug\net5.0\IEnumerable interface.exe
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\bin\Debug\net5.0\IEnumerable interface.deps.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\bin\Debug\net5.0\IEnumerable interface.runtimeconfig.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\bin\Debug\net5.0\IEnumerable interface.runtimeconfig.dev.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\bin\Debug\net5.0\IEnumerable interface.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\bin\Debug\net5.0\ref\IEnumerable interface.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\bin\Debug\net5.0\IEnumerable interface.pdb
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\obj\Debug\net5.0\IEnumerable interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\obj\Debug\net5.0\IEnumerable interface.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\obj\Debug\net5.0\IEnumerable interface.AssemblyInfo.cs
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\obj\Debug\net5.0\IEnumerable interface.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\obj\Debug\net5.0\IEnumerable interface.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\obj\Debug\net5.0\ref\IEnumerable interface.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\obj\Debug\net5.0\IEnumerable interface.pdb
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 2\Slot 6\IEnumerable interface\obj\Debug\net5.0\IEnumerable interface.genruntimeconfig.cache

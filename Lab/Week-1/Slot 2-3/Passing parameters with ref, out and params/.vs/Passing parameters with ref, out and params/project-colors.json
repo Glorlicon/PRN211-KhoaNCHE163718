@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43566b74-438d-4175-8e00-088600682f0d": {
+      "ProjectGuid": "43566b74-438d-4175-8e00-088600682f0d",
+      "DisplayName": "Passing parameters with ref, out and params",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

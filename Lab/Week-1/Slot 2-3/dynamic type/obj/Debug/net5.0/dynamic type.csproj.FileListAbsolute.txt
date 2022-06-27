@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\bin\Debug\net5.0\dynamic type.exe
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\bin\Debug\net5.0\dynamic type.deps.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\bin\Debug\net5.0\dynamic type.runtimeconfig.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\bin\Debug\net5.0\dynamic type.runtimeconfig.dev.json
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\bin\Debug\net5.0\dynamic type.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\bin\Debug\net5.0\ref\dynamic type.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\bin\Debug\net5.0\dynamic type.pdb
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\obj\Debug\net5.0\dynamic type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\obj\Debug\net5.0\dynamic type.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\obj\Debug\net5.0\dynamic type.AssemblyInfo.cs
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\obj\Debug\net5.0\dynamic type.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\obj\Debug\net5.0\dynamic type.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\obj\Debug\net5.0\ref\dynamic type.dll
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\obj\Debug\net5.0\dynamic type.pdb
+C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Lab\Week 1\Slot 2\dynamic type\obj\Debug\net5.0\dynamic type.genruntimeconfig.cache

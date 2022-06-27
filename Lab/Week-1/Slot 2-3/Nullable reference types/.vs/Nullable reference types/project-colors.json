@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4238b530-06f2-4698-9669-8bb81a232fb1": {
+      "ProjectGuid": "4238b530-06f2-4698-9669-8bb81a232fb1",
+      "DisplayName": "Nullable reference types",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
