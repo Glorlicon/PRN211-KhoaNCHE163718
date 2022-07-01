@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FXU18EXSvbJJ/zd+1oS7NdV/4zVB8urPWpmHi05+f8bKvTPu6hQ8OSOVm9eo+0UXR30735VLIVlJD1HiA30uhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Hand-On Lab\\Lab02\\MyWebApp\\MyWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

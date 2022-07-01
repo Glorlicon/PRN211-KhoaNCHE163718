@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PNBNUPIchRSdzLRAKqa+KGFYnbHY5iAp/D2Pi8OWIgsxXB4joXJkBFxyLWh7ptszDtiAXtPz512Yn8miF1ssFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Week-7\\Slot 20\\DemoDatabaseFirst\\DemoDatabaseFirst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

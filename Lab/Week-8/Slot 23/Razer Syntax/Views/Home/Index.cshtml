@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h3> Razor Syntax </h3>
+    @{
+        var data = DateTime.Now.Date;
+
+    }
+    @{var ISBNNo = "978-1-80056-718-4";}
+    @{
+        var pro = new { ID = 1, Name = "Rice Field" };
+        <p>ID:@pro.ID</p>
+        <p>Name @pro.Name</p>
+        <p>@data</p>
+        <p>ISBN@(ISBNNo)</p>
+    }
+</div>

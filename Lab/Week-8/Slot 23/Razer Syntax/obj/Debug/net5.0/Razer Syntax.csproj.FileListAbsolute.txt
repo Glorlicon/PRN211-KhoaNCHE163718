@@ -1,0 +1,39 @@
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\bin\Debug\net5.0\appsettings.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\bin\Debug\net5.0\Razer Syntax.exe
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\bin\Debug\net5.0\Razer Syntax.deps.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\bin\Debug\net5.0\Razer Syntax.runtimeconfig.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\bin\Debug\net5.0\Razer Syntax.runtimeconfig.dev.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\bin\Debug\net5.0\Razer Syntax.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\bin\Debug\net5.0\ref\Razer Syntax.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\bin\Debug\net5.0\Razer Syntax.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\bin\Debug\net5.0\Razer Syntax.Views.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\bin\Debug\net5.0\Razer Syntax.Views.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.csproj.AssemblyReference.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.AssemblyInfoInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.AssemblyInfo.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.csproj.CoreCompileInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.RazorAssemblyInfo.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.RazorAssemblyInfo.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\scopedcss\bundle\Razer Syntax.styles.css
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\staticwebassets\Razer Syntax.StaticWebAssets.Manifest.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.TagHelpers.input.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.TagHelpers.output.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.RazorCoreGenerate.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.RazorTargetAssemblyInfo.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.RazorTargetAssemblyInfo.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.Views.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\ref\Razer Syntax.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.genruntimeconfig.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Lab\Week-8\Slot 23\Razer Syntax\obj\Debug\net5.0\Razer Syntax.csproj.CopyComplete

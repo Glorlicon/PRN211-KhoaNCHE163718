@@ -1,0 +1,16 @@
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.exe
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.deps.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.runtimeconfig.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.runtimeconfig.dev.json
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\bin\Debug\net5.0\ref\DemoDatabaseFirst.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.csproj.AssemblyReference.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.AssemblyInfoInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.AssemblyInfo.cs
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\obj\Debug\net5.0\ref\DemoDatabaseFirst.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Week-7\Slot 20\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.genruntimeconfig.cache

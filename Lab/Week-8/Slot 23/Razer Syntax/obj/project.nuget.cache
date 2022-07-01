@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EdBfdIwU4TY7tM4rmNxT85McYDSAUVueLePCX6WLYPcTJzQQXqbaLLLlXxXjaDRFHviFYJNcP6qfe8riIsNblA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Lab\\Week-8\\Slot 23\\Razer Syntax\\Razer Syntax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

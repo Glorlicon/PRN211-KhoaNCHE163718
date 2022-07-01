@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "APdfCHMSS0MXvDfUCq0/qi0F+ZEw62derJBY2yamqM3vIbpQcWdNgaHLsrn9/tq8RDkkHq1Ogoep3BI1BnvCcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BK\\source\\repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Hand-On Lab\\Lab02\\AutomobileSolution\\AutomobileWinApp\\AutomobileWinApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
