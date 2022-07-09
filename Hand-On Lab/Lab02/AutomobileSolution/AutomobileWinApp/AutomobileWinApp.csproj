@@ -7,4 +7,12 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AutomobileLibrary\AutomobileLibrary.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+  <None Update="appsettings.json">
+   <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+</ItemGroup>
 </Project>
