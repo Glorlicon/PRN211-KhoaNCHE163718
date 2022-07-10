@@ -1487,19 +1487,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\BK\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\QuangPham27\\PRN211_SE1612.NET_HE160199\\Hands on lab\\Lab 2\\AutomobileSolution\\AutomobileWinApp\\AutomobileWinApp.csproj",
+      "projectUniqueName": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Hand-On Lab\\Lab02\\AutomobileSolution\\AutomobileWinApp\\AutomobileWinApp.csproj",
       "projectName": "AutomobileWinApp",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\QuangPham27\\PRN211_SE1612.NET_HE160199\\Hands on lab\\Lab 2\\AutomobileSolution\\AutomobileWinApp\\AutomobileWinApp.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\QuangPham27\\PRN211_SE1612.NET_HE160199\\Hands on lab\\Lab 2\\AutomobileSolution\\AutomobileWinApp\\obj\\",
+      "projectPath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Hand-On Lab\\Lab02\\AutomobileSolution\\AutomobileWinApp\\AutomobileWinApp.csproj",
+      "packagesPath": "C:\\Users\\BK\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Hand-On Lab\\Lab02\\AutomobileSolution\\AutomobileWinApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BK\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1513,8 +1513,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\admin\\source\\repos\\QuangPham27\\PRN211_SE1612.NET_HE160199\\Hands on lab\\Lab 2\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj": {
-              "projectPath": "C:\\Users\\admin\\source\\repos\\QuangPham27\\PRN211_SE1612.NET_HE160199\\Hands on lab\\Lab 2\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj"
+            "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Hand-On Lab\\Lab02\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj": {
+              "projectPath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Hand-On Lab\\Lab02\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj"
             }
           }
         }
@@ -1538,6 +1538,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -1546,7 +1552,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.106\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

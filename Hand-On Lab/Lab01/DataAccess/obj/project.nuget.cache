@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rJl96Qf15giJISDRpCJ3WpQZF5r5HgA8TEJe3D74hNqKVXuIGXJlLsdjDfXwnoc3Bkt++bRj38zDUKSCvSsubw==",
+  "dgSpecHash": "AI+3GkhZCB46g9NFiRFprDuZKXGR6u5ZoHWOKsejF8+XBw+ae3k7ANHGtLuqf1FCvPFeB1OSBvBLP48nZ4QAyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Lab01\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Hand-On Lab\\Lab01\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BK\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\BK\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZYGZ0Ys8LzkzJ+4t3cCDHp/rAot256inWNfKnvJM9+SQ1nNlMmvIR8zts4u1WaGqI+1CTHRbfprNnUeccJV63A==",
+  "dgSpecHash": "xi4+fhb2H/212fkN0ikI4IT3Q6c9Koc9iwZiOWKs5wcUK4BJUd9JJwsZS8834iWVQoco9gKy/CfjSqkFIVBH0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Lab01\\BusinessObject\\BusinessObject.csproj",
+  "projectFilePath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Hand-On Lab\\Lab01\\BusinessObject\\BusinessObject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BK\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\BK\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

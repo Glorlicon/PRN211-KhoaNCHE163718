@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b1TXh8kTSh+llf5Xj3cHb+jbIuKbnYo1MiJgXSx7GTcg2bPx+OXwROn121X5uzecCRt2dnM+gMvGQ2uy65+1/A==",
+  "dgSpecHash": "vNnx4pn00Df12j/39hhHiNc/4PJfhVimR+vztzhZxWHmx+vILWSYlei8k+cukBValnUZis6/Sf8Rcf2m0jKuyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Lab01\\MyStoreWinApp\\MyStoreWinApp.csproj",
+  "projectFilePath": "C:\\Users\\BK\\Source\\Repos\\Glorlicon\\PRN211-KhoaNCHE163718\\Hand-On Lab\\Lab01\\MyStoreWinApp\\MyStoreWinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BK\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\BK\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
