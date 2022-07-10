@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Assignment",
+    "\\Assignment\\Ass02Solution",
+    "\\Assignment\\Ass02Solution\\BusinessObject"
   ],
-  "SelectedNode": "\\Ass02Solution.sln (Assignment\\Ass02Solution\\Ass02Solution.sln)",
+  "SelectedNode": "\\Assignment\\Ass02Solution\\BusinessObject\\Member.cs",
   "PreviewInSolutionExplorer": false
 }
