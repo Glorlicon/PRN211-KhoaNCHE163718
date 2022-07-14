@@ -248,7 +248,6 @@ namespace SalesWinApp.ProductUI
                 txtUnitPrice.DataBindings.Clear();
                 txtUnitsInStock.DataBindings.Clear();
 
-                txtProductID.DataBindings.Add("Text", source, "ProductId");
                 txtProductName.DataBindings.Add("Text", source, "ProductName");
                 txtCategory.DataBindings.Add("Text", source, "CategoryName");
                 txtWeight.DataBindings.Add("Text", source, "Weight");
@@ -544,6 +543,11 @@ namespace SalesWinApp.ProductUI
             {
                 MessageBox.Show(ex.Message, "Search Product", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private void txtProductID_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

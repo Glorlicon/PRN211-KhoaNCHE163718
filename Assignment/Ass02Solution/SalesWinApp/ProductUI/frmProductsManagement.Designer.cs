@@ -319,6 +319,7 @@ namespace SalesWinApp.ProductUI
             this.txtProductID.Name = "txtProductID";
             this.txtProductID.Size = new System.Drawing.Size(184, 23);
             this.txtProductID.TabIndex = 1;
+            this.txtProductID.TextChanged += new System.EventHandler(this.txtProductID_TextChanged);
             // 
             // lbProductID
             // 
