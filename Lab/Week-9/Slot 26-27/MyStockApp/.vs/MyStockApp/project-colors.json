@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bfd7ab10-f43c-4fd0-94d4-b663c6ca22de": {
+      "ProjectGuid": "bfd7ab10-f43c-4fd0-94d4-b663c6ca22de",
+      "DisplayName": "MyStockApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

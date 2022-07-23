@@ -10,3 +10,15 @@ C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Hands on lab\
 C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Hands on lab\Lab 2\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.dll
 C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Hands on lab\Lab 2\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\ref\AutomobileLibrary.dll
 C:\Users\admin\source\repos\QuangPham27\PRN211_SE1612.NET_HE160199\Hands on lab\Lab 2\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.pdb
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Hand-On Lab\Lab02\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.deps.json
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Hand-On Lab\Lab02\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.dll
+C:\Users\BK\source\repos\Glorlicon\PRN211-KhoaNCHE163718\Hand-On Lab\Lab02\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\ref\AutomobileLibrary.dll
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Hand-On Lab\Lab02\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.pdb
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Hand-On Lab\Lab02\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.AssemblyReference.cache
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Hand-On Lab\Lab02\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Hand-On Lab\Lab02\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Hand-On Lab\Lab02\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Hand-On Lab\Lab02\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Hand-On Lab\Lab02\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.dll
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Hand-On Lab\Lab02\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\ref\AutomobileLibrary.dll
+C:\Users\BK\Source\Repos\Glorlicon\PRN211-KhoaNCHE163718\Hand-On Lab\Lab02\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.pdb
